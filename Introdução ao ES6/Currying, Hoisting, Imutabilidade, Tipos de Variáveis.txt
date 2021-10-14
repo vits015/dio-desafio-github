@@ -1,6 +1,10 @@
+currying é quando usa uma função dentro da outra para não se repetir um parâmetro
 
 hoisting - é quando uma variável ou função pode ser alterada sendo escrita a alteração mesmo após a chamada dela
 
+imutabilidade - significa que você não deve alterar os atributos de um 
+objeto em um update e sim criar um novo objeto adicionando os novos campos 
+ou alterando suas propriedades em um novo endereço de memória
 
 tipos de variavel
 
