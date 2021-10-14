@@ -1,0 +1,10 @@
+
+hoisting - é quando uma variável ou função pode ser alterada sendo escrita a alteração mesmo após a chamada dela
+
+
+tipos de variavel
+
+var, só entende escopo de função ou escopo global
+
+let e const respeitam o escopo de bloco
+
